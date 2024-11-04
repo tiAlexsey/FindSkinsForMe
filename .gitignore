@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/FindSkinsForMe/appsettings.json
+/FindSkinsForMe/appsettings.Development.json
